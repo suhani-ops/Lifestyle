@@ -355,7 +355,9 @@ a.btn.text-info {
 section{
     padding: 60px 0;
 }
-
+section#shadow-host-companion {
+    padding: 0px;
+}
 .testimonial-slide .owl-dots {
     display: none;
 }
